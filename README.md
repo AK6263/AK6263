@@ -7,7 +7,9 @@ I am a Third-year Integrated Masters student at IISER Kolkata Majoring in Biolog
 Apart from academics I like to do programming and participate in Hackathons and Compeitions for fun. My Hobbies include reading WebNovels and Origami. I am also the Convener of SlashDot Club, a forum for Programmers and Designers of IISER Kolkata.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak6263&show_icons=true&theme=cobalt)
+![Abhays's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak6263&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me at my [**personal website**][website] or **Connect with me at** :
 
