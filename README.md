@@ -4,7 +4,7 @@
 
 I am a Third-year Integrated Masters student at IISER Kolkata Majoring in Biological Sciences and minoring in Computer Science. I am interested in the multidisciplinary field of Computational Biology and related fields. Apart from them I am also intersted in exploring emerging applications of Machine Learning and AI in Biology. 
 
-Apart from academics I like to do programming and participate in Hackathons and Compeitions for fun. My Hobbies include reading WebNovels and Origami. I am also the Convener of SlashDot Club, a forum for Programmers and Designers of IISER Kolkata.
+Apart from academics I like programming and participating in Hackathons and Compeitions for fun. My Hobbies include reading WebNovels and Origami. I am also the Convener of SlashDot Club, a forum for Programmers and Designers of IISER Kolkata.
 
 
 ![Abhays's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak6263&show_icons=true&theme=cobalt)
