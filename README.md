@@ -9,7 +9,7 @@ Apart from academics I like programming and participating in Hackathons and Comp
 
 ![Abhays's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak6263&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak6263&layout=compact&theme=cobalt)](https://github.com/ak6263/github-readme-stats)
 
 You can find me at my [**personal website**][website] or **Connect with me at** :
 
