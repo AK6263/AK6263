@@ -1,6 +1,6 @@
 # Hello, world!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhayK6264?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=abhayK6264)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhayK6264?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=KsagarAbhay)
 
 I am a Third-year Integrated Masters student at IISER Kolkata Majoring in Biological Sciences and minoring in Computer Science. I am interested in the multidisciplinary field of Computational Biology and related fields. Apart from them I am also intersted in exploring emerging applications of Machine Learning and AI in Biology. 
 
@@ -41,7 +41,7 @@ You can find me at my [**personal website**][website] or **Connect with me at** 
 
 [website]: ak6263.github.io
 [gmail]: mailto:abhaykshirsagar01@gmail.com
-[twitter]: https://twitter.com/abhayK6264
+[twitter]: https://twitter.com/KsagarAbhay
 [instagram]: https://www.instagram.com/abhay.kshirsagar.3975/
 [linkedin]: https://www.linkedin.com/in/abhay-kshirsagar-2bn2b/
 [python]: https://www.python.org/
