@@ -14,17 +14,6 @@ You can find me at my [**personal website**][website] or **Connect with me at** 
 [<img align="left" alt="codeSTACKr | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
-<br/>
-
----
-
-# Languages and Tools:
-
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left" alt="C-plus-plus" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][c++]
-[<img align="left" alt="PyTorch" height="30px" src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.svg" />][pytorch]
-[<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][js]
-[<img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dart]
 
 [website]: ak6263.github.io
 [gmail]: mailto:abhaykshirsagar01@gmail.com
