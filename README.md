@@ -14,7 +14,7 @@ You can find me at my [**personal website**][website] or **Connect with me at** 
 [<img align="left" alt="codeSTACKr | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />][linkedin]
 
 
-[website]: ak6263.github.io
+[website]: https://ak6263.github.io/
 [gmail]: mailto:abhaykshirsagar01@gmail.com
 [twitter]: https://twitter.com/KsagarAbhay
 [linkedin]: https://www.linkedin.com/in/abhay-kshirsagar-2bn2b/
