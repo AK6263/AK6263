@@ -6,3 +6,5 @@ Apart from academics I like programming and participating in Hackathons and Comp
 
 
 You can find me at my [**personal website**][website]
+
+[website]: https://ak6263.github.io/
